@@ -1,0 +1,15 @@
+/venv/
+.idea/
+*.pyc
+*.pyo
+
+# PyCharm files
+*.iml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/pycharm*.xml
+.idea/dictionaries
+.idea/jsLibraryMappings.xml
+
